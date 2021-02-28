@@ -1,4 +1,4 @@
-# JN-Fashion-Zone
+# MyTunes-landing-page
 [demo](https://mytunesmusic.netlify.app/)
 
 ## it is a clone of myTunes music webpage.
