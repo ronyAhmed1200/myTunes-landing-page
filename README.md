@@ -1,4 +1,7 @@
 # MyTunes-landing-page
+
+![imgae-of-our-mytunes-landing-page](https://imgur.com/1PdZwkt.png)
+
 [demo](https://mytunesmusic.netlify.app/)
 
 ## it is a clone of myTunes music webpage.
